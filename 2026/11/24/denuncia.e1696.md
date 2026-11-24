@@ -1,5 +1,5 @@
 ---
-fecha: "2020-04-28"
+fecha: "2026-11-24"
 expediente: "DEN00878310"
 original_filename: "denuncia.pdf"
 fecha_creacion_pdf: "2026-11-24T10:26:13-03"
