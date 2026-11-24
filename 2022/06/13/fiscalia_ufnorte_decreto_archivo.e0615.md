@@ -4,6 +4,7 @@ expediente: "DEN00878310"
 original_filename: "DecretoArchivo-DEN00878310-1655137837.pdf"
 fecha_creacion_pdf: "2022-06-13T13:30:37-03"
 origen_email: "fuentes/emails/fiscalias.gob.ar/resolucion-den00878310-blas-matias-michi.e0615.eml"
+firma_digital: "VERONICA NATALIA ANDRADE Jun 13 2022 13:30:39; firma: Signature is Valid.; certificado: Certificate has Expired"
 ---
 
 MPF CABA
